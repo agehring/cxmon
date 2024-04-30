@@ -148,7 +148,7 @@ The _jsonDirectory_ element specifies where the JSON files output by the monitor
     
 ## Authors
 
-* Gem Immanuel, Checkmarx Professional Services - *Initial work*
+* Checkmarx Professional Services - *Initial work*
 
 
 ## License
